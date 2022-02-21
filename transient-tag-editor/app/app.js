@@ -1,6 +1,6 @@
 'use strict;'
 
-const key = "2a8kc622z1ksaxhs92tk5tiuc";
+const key = "nppge2i65hzg9edmiptqzn41d";
 const params = "&help=0&play=1&qs=1&gt=0&hr=0";
 const matSpace = "https://my.matterport.com/show/?m=";
 let matSid = "MkXxNyzNkc9";
